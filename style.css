@@ -5,3 +5,20 @@ body {
 a {
   color: white; 
 }
+
+h1 {
+  font-family: Helvetica, Times;
+  font-size: 50px;
+  font-sty
+  le: italic;
+  }
+
+.red-rectangle {
+	background-color: red;
+	width: 500px;
+	height: 500px;
+}
+
+.red-rectangle p {
+	text-align: center;
+}
