@@ -1,5 +1,14 @@
 body {  
-  background-color: #000000;
+  body {
+      margin: 0;
+      background-image: url('eye2.jpg');
+        background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-position: 0% 0%;
+  background-size: 100% 100%;
+      display: flex;
+      justify-content: center;
+
   color: white;
 }
 a {
